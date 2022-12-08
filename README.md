@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Memiez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Memiez)](https://github.com/Memiez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Memiez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Memiez/Memiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
